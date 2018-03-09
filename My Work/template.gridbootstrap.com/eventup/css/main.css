@@ -64,7 +64,12 @@ input:focus {
 	text-decoration:none;
 	outline: none;
 }
-
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
 a {
 color: #e23c3b;
 	} 
@@ -218,7 +223,7 @@ textarea.form-control {
 
 .title-section,
 .page-title {
-	text-align: center;
+	text-align: left;
 }
 
 .title-section {
