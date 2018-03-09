@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Dec 2017 13:14:10 at https://template.gridbootstrap.com/eventup/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://template.gridbootstrap.com/eventup/ -O1 "D:\Work\ipact" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:59	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/images/ico/apple-touch-icon-precomposed.png (from https://template.gridbootstrap.com/eventup/)
+13:14:59	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/images/ico/apple-touch-icon-114-precomposed.png (from https://template.gridbootstrap.com/eventup/)
+13:14:59	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/images/ico/apple-touch-icon-72-precomposed.png (from https://template.gridbootstrap.com/eventup/)
+13:14:59	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/images/ico/apple-touch-icon-57-precomposed.png (from https://template.gridbootstrap.com/eventup/)
+13:15:06	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/eventup/fonts/glyphicons-halflings-regular.eot (from https://template.gridbootstrap.com/eventup/css/bootstrap.min.css)
+13:15:06	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/eventup/fonts/glyphicons-halflings-regular.eot? (from https://template.gridbootstrap.com/eventup/css/bootstrap.min.css)
+13:15:06	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/eventup/fonts/glyphicons-halflings-regular.woff2 (from https://template.gridbootstrap.com/eventup/css/bootstrap.min.css)
+13:15:06	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/eventup/fonts/glyphicons-halflings-regular.woff (from https://template.gridbootstrap.com/eventup/css/bootstrap.min.css)
+13:15:06	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/eventup/fonts/glyphicons-halflings-regular.ttf (from https://template.gridbootstrap.com/eventup/css/bootstrap.min.css)
+13:15:06	Error: 	"Not Found" (404) at link https://template.gridbootstrap.com/eventup/fonts/glyphicons-halflings-regular.svg (from https://template.gridbootstrap.com/eventup/css/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 98 links scanned, 87 files written (4660669 bytes overall) [4691071 bytes received at 82299 bytes/sec], 8.1 requests per connection
+(10 errors, 0 warnings, 0 messages)
