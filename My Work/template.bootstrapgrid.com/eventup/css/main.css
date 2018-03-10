@@ -57,6 +57,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
 }
 
+h3.paperSub{
+text-align: left;
+}
+
+p.bullet1{
+margin:35px;
+text-align: left;
+}
 a, 
 a:hover,
 a:focus,
@@ -75,6 +83,11 @@ color: #e23c3b;
 	} 
 a:hover {
 	color: #e94b4c;
+}
+img.logo{
+
+	height: 50px;
+	width: 200px;
 }
 
 a:active,
